@@ -1,0 +1,45 @@
+/* Default image style */
+body{
+    background-image:url("https://st5.depositphotos.com/5709188/64741/v/450/depositphotos_647419938-stock-illustration-abundant-stream-splashes-drops-water.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-size: 200%; */
+
+}
+#image {
+    width: 300px; /* Default width */
+    height: auto; /* Maintain aspect ratio */
+    transition: transform 0.3s ease; /* Smooth transformations */
+}
+
+/* Optional: Flip effect when resizing */
+.flip-horizontal {
+    transform: scaleX(-1); /* Flip horizontally */
+}
+
+.flip-vertical {
+    transform: scaleY(-1); /* Flip vertically */
+}
+
+.container{
+  font-family:'Franklin Gothic Medium';  justify-items: center;
+}
+
+.main{
+    padding: 20px;
+    border: solid 2px rgb(176, 169, 169);
+    
+}
+button{
+    width:100px;
+    margin-top: 10px;
+    padding: 7px;
+    background-color: rgb(46, 166, 210);
+    border: none;
+    color:white;
+    border-radius: 4px;cursor: pointer;
+}
+button:hover{
+    
+    opacity: 0.5;
+}
