@@ -8,9 +8,9 @@
   - Interactive Buttons: User-friendly interface with buttons to perform actions.
     
 <strong>Technologies Used</strong>
-  HTML: Structure of the application.
-  CSS: Styling and image transformations.
-  JavaScript: Dynamic behavior and user interactions.
+  - HTML: Structure of the application.
+  - CSS: Styling and image transformations.
+  - JavaScript: Dynamic behavior and user interactions.
   
 <strong>How to Run the Project</strong>:
   - Clone this repository or download the source code.
@@ -19,9 +19,9 @@
 
 <strong>File Structure</strong>:
   adjust-image-size/<br>
-  ├── index.html<br>       # Main HTML file
-  ├── styles.css<br>       # CSS file for styling
-  ├── script.js <br>       # JavaScript file for functionality
-  └── download.jpg<br>     # Sample image used in the application
+  ├── index.html<br>       
+  ├── styles.css<br>       
+  ├── script.js <br>       
+  └── download.jpg<br>     
   
 <strong>URL:</strong> https://pradnyajagtap-3660.github.io/AdjustImage/
